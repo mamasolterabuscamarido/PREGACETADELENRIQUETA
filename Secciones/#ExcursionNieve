@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Revista digital La Gaceta del Enriqueta - Edición número 1">
+    <title>La Gaceta del Enriqueta - Número 1</title>
+    <link rel="stylesheet" href="estiloSecciones.css">
+    <link rel="stylesheet" href="estiloSecciones.css">
+</head>
+<body>
+  
+   <header>
+        <h1>La Gaceta del Enriqueta</h1>
+        <p><strong>Edición número 18 - Abril 2025</strong></p>
+    </header>
+  
+  <!-- MENU Principal -->
+    <nav>
+        <a href="/index.html">Inicio</a>
+        <a href="/index.html#secciones">Secciones</a>
+        <a href="/index.html/#ediciones-anteriores">Números anteriores</a>
+        <a href="/index.html/#contacto">Contacto</a>
+    </nav>
+<!-- FIN DEL MENU Principal -->
+  
+  
+<!-- SUBMENU Principal -->
+  <nav class="submenu">
+    <div class="container">
+        <ul>
+            <li><a href="#Editorial">Editorial</a></li>
+            <li><a href="#ExcursionNieve"> A la Nieve</a></li>
+            <li><a href="#ExcursionMicropolis"> A Micrópolis</a></li>
+            <li><a href="#ExcursionSanPol"> Al Teatro San Pol</a></li>
+            <li><a href="#Poemas">Poesía</a></li>
+            <li><a href="#MadridCulturalRutaSmith">Madrid Cultural</a></li>
+            <li><a href="#MadridCulturalColeccionesReales">Madrid Cultural</a></li>
+            <li><a href="#Viajes">Viajes</a></li>
+            <li><a href="#Recetas">Recetas</a></li>
+          <li><a href="#Pasatiempos">Pasatiempos</a></li>
+        </ul>
+    </div>
+</nav>
+  
+ <!-- SUBMENU Principal -->
+
+  
+    <!-- Contenido Principal -->
+    <main>
+        <div class="container">
+
+            <!-- Editorial -->
+            <section class="section" id="Editorial">
+  <h2>El Editorial</h2>
+  <div class="etiquetas">
+    <span class="tag">#Editorial</span>
+        <span class="tag">#Numero 18 - Abril 2025</span>
+  </div>
+              <p><strong>EXCURSIÓN A LA NIEVE</strong></p>
+  <p>Después de un parón, un triste parón, volvemos. Volvemos y volvemos con mucha ilusión, con la ilusión de ver en marcha de nuevo a un pilar fundamental de este nuestro colegio, nuestra Gaceta.</p>
+
+  <p>La Gaceta vuelve a rodar y a partir de ya, estamos de nuevo en el día a día del cole, para dar voz a nuestros alumnos, a nuestros profesores, a nuestros padres y madres, en consecuencia, el motor de este maravilloso colegio.</p>
+
+  <p>Nunca hemos perdido la ilusión en este proyecto y por eso volvemos hoy volvemos a estar ilusionadísimos. Hoy empezamos una nueva aventura, con un formato distinto pero innovador, con el mismo equipo, pero también con algún fichaje nuevo para contaros de primera mano la gran cantidad de cosas que nuestro cole hace durante el curso.</p>
+
+  <p>No perderemos nuestra esencia y volveremos a volcarnos en nuestras secciones habituales, grandes días del cole, nuestro voluntariado, salidas fuera del cole, entrevistas a nuestras hermanas, a nuestros profes, a nuestros antiguos alumnos, nuestras recomendaciones, muchas recetas, pasatiempo, humor, escribir es un arte, recomendaciones de lugares y un infinita etcétera… sin olvidarnos de posibles sorpresas de última hora.</p>
+
+  <p>Pues bien, esto no ha hecho nada más que comenzar. Ahora toca disfrutar del proyecto.</p>
+
+  <p><strong>La Gaceta</strong></p>
+</section>
+ 
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 La Gaceta del Enriqueta. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
